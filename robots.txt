@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://whwh1996.github.io/whwh1996.github.io//sitemap.xml
+Sitemap: https://whwh1996.github.io/sitemap.xml
