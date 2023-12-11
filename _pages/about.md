@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: left
   image: wh1.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 3661, HKUST</p>
     <p>Clear Water Bay,</p>
