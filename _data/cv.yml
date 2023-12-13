@@ -13,17 +13,13 @@
   contents:
     - title: PhD
       institution: Hong Kong University of Science and Technology
-      year: 2019 - now
+      year: 2019.8 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Major in Computer Science, CSE department.
+        - Advised by Prof. Kai Chen in iSING lab.
     - title: Bachelor
       institution: Peking University
-      year: 2015 - 2019
+      year: 2015.9 - 2019.7
       description:
         - Major in Computer Science, EECS department.
         - Won Outstanding Graduate.（北京大学优秀毕业生）
@@ -31,16 +27,31 @@
 - title: Experience
   type: time_table
   contents:
-    - title: XXX
-      institution: XXX
-      year: 1909 - 1911
+    - title: UG Visiting Internship Program
+      institution: iSING Lab of HKUST
+      year: 2019.3 - 2019.6
       description:
-        - Description 1.
-        - Description 2.
+        - Advised by Prof. Kai Chen.
+        - Research on applying AI to data center network.
+    - title: Research Intern
+      institution: Naturali (an AI Startup Corporation)
+      year: 2018.1 - 2018.6
+      description:
+        - Reproduce and test latest NLP research work.
+        - Write TF operators and benchmark for the company's toolkit.
+    - title: Student Research Assistant
+      institution: Network and Dig Data Lab of PKU
+      year: 2017.4 - 2019.3
+      description:
+        - Advised by Prof. Tong Yang.
+        - Research on data streams, big data algorithms, network measurement.
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2019
+      items: 
+        - Outstanding Graduate, Peking University
     - year: 2016
       items: 
-        - XXX
+        - Guanghua Scholarship, Peking University
