@@ -46,6 +46,38 @@
         - Advised by Prof. Tong Yang.
         - Research on data streams, big data algorithms, network measurement.
 
+- title: Academic Services
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - Web chair of 8th Asia-Pacific Workshop on Networking (APNet'24)
+    - year: 2023
+      items: 
+        - Web chair of 7th Asia-Pacific Workshop on Networking (APNet'23)
+    - year: 2022
+      items: 
+        - Web chair of 6th Asia-Pacific Workshop on Networking (APNet'22)
+    - year: 2021
+      items: 
+        - Web chair of 5th Asia-Pacific Workshop on Networking (APNet'21)
+
+- title: Teaching Services
+  type: time_table
+  contents:
+    - year: 2022 Fall
+      items: 
+        - TA in COMP3511 (Operation System), HKUST
+    - year: 2021 Fall
+      items: 
+        - TA in COMP5621 (Computer Networks), HKUST
+    - year: 2021 Spring
+      items: 
+        - TA in COMP3511 (Operation System), HKUST
+    - year: 2020 Spring
+      items: 
+        - TA in COMP3511 (Operation System) , HKUST
+
 - title: Honors and Awards
   type: time_table
   contents:
