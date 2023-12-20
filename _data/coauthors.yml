@@ -1,34 +1,67 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Liao":
+  - firstname: ["Xudong"]
+    url: https://xudongliao.github.io/
+  
+"Zeng":
+  - firstname: ["Chaoliang"]
+    url: https://hydrazeng.github.io
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Tian":
+  - firstname: ["Han"]
+    url: https://tianhan4.github.io
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Wan":
+  - firstname: ["Xinchen"]
+    url: https://xcwanandy.github.io
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Zeng":
+  - firstname: ["Gaoxiong"]
+    url: https://gaoxiong.site/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Bai":
+  - firstname: ["Wei"]
+    url: https://baiwei0427.github.io/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Chen":
+  - firstname: ["Jingrong"]
+    url: https://cjr.host/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Jiang":
+  - firstname: ["Junchen"]
+    url: https://people.cs.uchicago.edu/~junchenj/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Chen":
+  - firstname: ["Kai"]
+    url: https://cse.hkust.edu.hk/~kaichen/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Lao":
+  - firstname: ["ChonLam"]
+    url: https://laochanlam.com/
+
+"Le":
+  - firstname: ["Yanfang"]
+    url: https://leyanfang.github.io/
+
+"Wu":
+  - firstname: ["Wenfei"]
+    url: https://wenfei-wu.github.io/
+
+"Ma":
+  - firstname: ["Yiqing"]
+    url: https://miqianmimi.github.io/
+
+"Yang":
+  - firstname: ["Tong"]
+    url: https://yangtonghome.github.io/
+
+"Zhang":
+  - firstname: ["Junxue"]
+    url: https://snowzjx.me/
+
+"Zhang":
+  - firstname: ["Hong"]
+    url: https://hongzhangblaze.github.io/
+
+"Hu":
+  - firstname: ["Shuihai"]
+    url: https://shuihaihu.github.io/
