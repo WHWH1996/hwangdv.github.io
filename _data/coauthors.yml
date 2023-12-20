@@ -30,6 +30,10 @@
   - firstname: ["Junchen"]
     url: https://people.cs.uchicago.edu/~junchenj/
 
+"Zhang":
+  - firstname: ["Hong"]
+    url: https://hongzhangblaze.github.io/
+
 "Chen":
   - firstname: ["Kai"]
     url: https://cse.hkust.edu.hk/~kaichen/
@@ -53,10 +57,6 @@
 "Yang":
   - firstname: ["Tong"]
     url: https://yangtonghome.github.io/
-
-"Zhang":
-  - firstname: ["Hong"]
-    url: https://hongzhangblaze.github.io/
 
 "Hu":
   - firstname: ["Shuihai"]
