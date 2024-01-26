@@ -5,6 +5,8 @@
 "Zeng":
   - firstname: ["Chaoliang"]
     url: https://hydrazeng.github.io
+  - firstname: ["Gaoxiong"]
+    url: https://gaoxiong.site/
 
 "Tian":
   - firstname: ["Han"]
@@ -14,17 +16,9 @@
   - firstname: ["Xinchen"]
     url: https://xcwanandy.github.io
 
-"Zeng-gx":
-  - firstname: ["Gaoxiong"]
-    url: https://gaoxiong.site/
-
 "Bai":
   - firstname: ["Wei"]
     url: https://baiwei0427.github.io/
-
-"Chen-jr":
-  - firstname: ["Jingrong"]
-    url: https://cjr.host/
 
 "Jiang":
   - firstname: ["Junchen"]
@@ -33,10 +27,14 @@
 "Zhang":
   - firstname: ["Hong"]
     url: https://hongzhangblaze.github.io/
+  - firstname: ["Junxue"]
+    url: https://snowzjx.me/
 
 "Chen":
   - firstname: ["Kai"]
     url: https://cse.hkust.edu.hk/~kaichen/
+  - firstname: ["Jingrong"]
+    url: https://cjr.host/
 
 "Lao":
   - firstname: ["ChonLam"]
@@ -61,7 +59,3 @@
 "Hu":
   - firstname: ["Shuihai"]
     url: https://shuihaihu.github.io/
-
-"Zhang-jx":
-  - firstname: ["Junxue"]
-    url: https://snowzjx.me/
